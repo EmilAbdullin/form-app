@@ -1,0 +1,29 @@
+{
+  "name": "js-form-app",
+  "version": "1.0.0",
+  "description": "simple form-app",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EmilAbdullin/form-app.git"
+  },
+  "keywords": [
+    "js",
+    "javascript",
+    "webpack"
+  ],
+  "author": "Emil Abdullin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/EmilAbdullin/form-app/issues"
+  },
+  "homepage": "https://github.com/EmilAbdullin/form-app#readme",
+  "devDependencies": {
+    "webpack": "^4.41.5",
+    "webpack-cli": "^3.3.10",
+    "webpack-dev-server": "^3.10.1"
+  }
+}
